@@ -1,6 +1,7 @@
-# androidbluetoothserialapp
+# Bluetooth Connectivity
 
-A new Flutter application.
+
+A chat application to communicate with the server end using the backend
 
 ## Getting Started
 
